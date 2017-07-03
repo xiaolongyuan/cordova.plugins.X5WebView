@@ -1,6 +1,6 @@
 {
   "name": "cordova.plugins.x5webview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Changes the default WebView to TBS X5 WebView",
   "cordova": {
     "id": "cordova-plugin-x5webview",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Im-Kevin/cordova.plugins.X5WebView.git"
+    "url": "https://github.com/xiaolongyuan/cordova.plugins.X5WebView.git"
   },
   "keywords": [
     "cordova",
@@ -32,7 +32,7 @@
   "author": "",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/Im-Kevin/cordova.plugins.X5WebView"
+    "url": "https://github.com/xiaolongyuan/cordova.plugins.X5WebView"
   },
-  "homepage": "https://github.com/Im-Kevin/cordova.plugins.X5WebView"
+  "homepage": "https://github.com/xiaolongyuan/cordova.plugins.X5WebView"
 }
